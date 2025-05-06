@@ -1,0 +1,12 @@
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Domain.deps.json
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Domain.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Domain.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.AssemblyInfoInputs.cache
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.AssemblyInfo.cs
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.csproj.CoreCompileInputs.cache
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.sourcelink.json
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\refint\M3alam.Domain.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\ref\M3alam.Domain.dll

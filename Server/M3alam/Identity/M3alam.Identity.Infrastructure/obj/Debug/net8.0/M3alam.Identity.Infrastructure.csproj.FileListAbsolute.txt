@@ -1,0 +1,12 @@
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\bin\Debug\net8.0\M3alam.Identity.Infrastructure.deps.json
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\bin\Debug\net8.0\M3alam.Identity.Infrastructure.dll
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\bin\Debug\net8.0\M3alam.Identity.Infrastructure.pdb
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.AssemblyInfoInputs.cache
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.AssemblyInfo.cs
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.csproj.CoreCompileInputs.cache
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.sourcelink.json
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.dll
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\refint\M3alam.Identity.Infrastructure.dll
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\M3alam.Identity.Infrastructure.pdb
+G:\repos\M3elem.ma\Server\M3alam\Identity\M3alam.Identity.Infrastructure\obj\Debug\net8.0\ref\M3alam.Identity.Infrastructure.dll

@@ -1,0 +1,6 @@
+@M3alam.Identity.Web_HostAddress = http://localhost:5203
+
+GET {{M3alam.Identity.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
