@@ -10,3 +10,9 @@ G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.dl
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\refint\M3alam.Domain.dll
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.pdb
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\ref\M3alam.Domain.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Common.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Identity.Infrastructure.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Identity.Infrastructure.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\bin\Debug\net8.0\M3alam.Common.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.Domain.csproj.AssemblyReference.cache
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Domain\obj\Debug\net8.0\M3alam.D.08FF1F94.Up2Date

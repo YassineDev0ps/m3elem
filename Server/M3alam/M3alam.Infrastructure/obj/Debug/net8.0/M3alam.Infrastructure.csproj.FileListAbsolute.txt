@@ -13,3 +13,10 @@ G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\ref\M3al
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Infrastructure.runtimeconfig.json
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.csproj.AssemblyReference.cache
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.genruntimeconfig.cache
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Common.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Domain.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Identity.Infrastructure.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Domain.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Common.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Identity.Infrastructure.pdb
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.I.1CA9610F.Up2Date
