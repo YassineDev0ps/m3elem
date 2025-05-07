@@ -10,3 +10,4 @@ G:\repos\M3elem.ma\Server\M3alam\M3alam.Application\obj\Debug\net8.0\M3alam.Appl
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Application\obj\Debug\net8.0\refint\M3alam.Application.dll
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Application\obj\Debug\net8.0\M3alam.Application.pdb
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Application\obj\Debug\net8.0\ref\M3alam.Application.dll
+G:\repos\M3elem.ma\Server\M3alam\M3alam.Application\obj\Debug\net8.0\M3alam.Application.csproj.AssemblyReference.cache

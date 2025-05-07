@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3alam.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c0292f2b1ebac0cf19424cf9b4689a790c2b0ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae89610e2a47923d6232620e020d4d9fbcb02e54")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3alam.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3alam.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

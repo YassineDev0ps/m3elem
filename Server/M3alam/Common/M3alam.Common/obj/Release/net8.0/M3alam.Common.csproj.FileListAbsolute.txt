@@ -1,0 +1,13 @@
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\bin\Release\net8.0\M3alam.Common.deps.json
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\bin\Release\net8.0\M3alam.Common.dll
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\bin\Release\net8.0\M3alam.Common.pdb
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.csproj.AssemblyReference.cache
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.AssemblyInfoInputs.cache
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.AssemblyInfo.cs
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.csproj.CoreCompileInputs.cache
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.sourcelink.json
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.dll
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\refint\M3alam.Common.dll
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\M3alam.Common.pdb
+G:\repos\M3elem.ma\Server\M3alam\Common\M3alam.Common\obj\Release\net8.0\ref\M3alam.Common.dll
