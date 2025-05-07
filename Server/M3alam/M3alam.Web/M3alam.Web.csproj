@@ -22,4 +22,11 @@
     <ProjectReference Include="..\M3alam.Infrastructure\M3alam.Infrastructure.csproj" />
   </ItemGroup>
 
+  <!-- Ensure appsettings.json is copied to the output directory during build -->
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

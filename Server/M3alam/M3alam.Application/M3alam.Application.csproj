@@ -7,8 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!-- Add the necessary NuGet package references -->
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="MediatR" Version="12.5.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.2" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="8.0.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Project references to Common and Infrastructure -->
+    <ProjectReference Include="..\Common\M3alam.Common\M3alam.Common.csproj" />
+    <ProjectReference Include="..\M3alam.Infrastructure\M3alam.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Ensure appsettings.json is copied to the output directory during build -->
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
