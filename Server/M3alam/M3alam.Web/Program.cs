@@ -61,7 +61,7 @@ builder.Services
         // URL of your deployed Identity server
         options.Authority = builder.Configuration["OpenId:Authority"];
         // The API “scope” or audience your tokens are minted for
-        options.Audience = "m3alam-api";
+        options.Audience = "M3alam API";
         // Require HTTPS in production
         options.RequireHttpsMetadata = true;
 
