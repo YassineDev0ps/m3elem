@@ -13,3 +13,12 @@ G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\ref\M3al
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\bin\Debug\net8.0\M3alam.Infrastructure.runtimeconfig.json
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.csproj.AssemblyReference.cache
 G:\repos\M3elem.ma\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.genruntimeconfig.cache
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.AssemblyInfo.cs
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.sourcelink.json
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.dll
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\refint\M3alam.Infrastructure.dll
+C:\Users\manal\Desktop\m3elem\m3elem\Server\M3alam\M3alam.Infrastructure\obj\Debug\net8.0\M3alam.Infrastructure.pdb
