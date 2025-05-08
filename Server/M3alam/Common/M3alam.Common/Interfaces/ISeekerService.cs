@@ -10,6 +10,7 @@ namespace M3alam.Common.Interfaces
 {
     public interface ISeekerService
     {
+        Task<bool> CreateSeekerAccount(CreateSeekerAccountDto Data);
         Task<SeekerProfileDto> GetProfileAsync(Guid seekerId);
         Task UpdateProfileAsync(Guid seekerId, UpdateSeekerDto update);
 

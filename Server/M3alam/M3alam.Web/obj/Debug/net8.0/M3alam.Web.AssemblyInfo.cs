@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3alam.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828ca2ab0f0dcbb1fccb7e70b0b3bac3aba75681")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97290163a1be6399d1e0f8e536e6834ee79e9b0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3alam.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3alam.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

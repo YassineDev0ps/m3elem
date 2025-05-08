@@ -18,7 +18,9 @@ namespace M3alam.Domain.Entities
         public double Rating { get; set; }
         public int ReviewCount { get; set; }
         public int CompletedJobs { get; set; }
-
+        public double? Latitude { get; set; }
+        public double? Longitude { get; set; }
+        public string? Address { get; set; }
 
         public ICollection<Request>? RequestsHandled { get; set; }
 

@@ -10,6 +10,7 @@ namespace M3alam.Common.Interfaces
 {
     public interface IProviderService
     {
+        Task<bool> CreateProviderAccount(CreateProviderAccountDto Data);
         Task<ProviderProfileDto> GetProfileAsync(Guid providerId);
         Task UpdateProfileAsync(Guid providerId, UpdateProviderDto update);
 
