@@ -25,10 +25,7 @@ namespace M3alam.Domain.Entities
         public Guid SeekerId { get; set; }
         public Guid? ProviderId { get; set; }
 
-        // Navigation
-        public Seeker? Seeker { get; set; }
-        public Provider? Provider { get; set; }
-
+       
    
         public ICollection<Message>? Messages { get; set; }
     }

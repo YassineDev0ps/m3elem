@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3alam.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca3fc924ad127a5d9573b1b14f2a1f8b360fce6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828ca2ab0f0dcbb1fccb7e70b0b3bac3aba75681")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3alam.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3alam.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

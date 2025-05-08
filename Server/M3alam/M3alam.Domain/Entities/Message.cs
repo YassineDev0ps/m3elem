@@ -15,8 +15,6 @@ namespace M3alam.Domain.Entities
         public string Content { get; set; } = default!;
         public DateTime Timestamp { get; set; }
 
-        // Navigation
-        public Request? Request { get; set; }
-        public ApplicationUser? Sender { get; set; }
+       
     }
 }

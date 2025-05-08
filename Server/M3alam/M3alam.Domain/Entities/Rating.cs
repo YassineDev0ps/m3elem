@@ -15,9 +15,6 @@ namespace M3alam.Domain.Entities
         public int Score { get; set; }     // renamed from ‘rating’
         public string? Comment { get; set; }
 
-        // Navigation
-        public Request? Request { get; set; }
-        public Provider? Provider { get; set; }
-        public Seeker? Seeker { get; set; }
+
     }
 }
