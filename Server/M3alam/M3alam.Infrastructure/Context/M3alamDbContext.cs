@@ -11,8 +11,7 @@ namespace M3alam.Infrastructure.Context
         public M3alamDbContext(DbContextOptions<M3alamDbContext> options)
           : base(options)
         { }
-        DbSet<Worker> Workers { get; set; }
-        DbSet<Receiver> Receivers { get; set; }
+      
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

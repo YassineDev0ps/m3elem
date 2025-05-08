@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3alam.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042f63c5877a4336b119b3921fbfe538cb560d09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc9725c44a96623f53a89b98884e9911ead0c574")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3alam.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3alam.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
