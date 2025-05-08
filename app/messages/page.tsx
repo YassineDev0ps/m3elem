@@ -32,12 +32,24 @@ export default function MessagesPage() {
     try {
       const response = await fetch("/api/messages", {
         headers: {
-          Authorization: `Bearer ${user.token}`,
+          Authorization: Bearer ${user.token},
         },
       });
 
       if (!response.ok) {
-        throw new Error("Failed to fetch chat threads");\
-    } finally 
+        throw new Error("Failed to fetch chat threads");
+      }
+
+      const data = await response.json();
+      setChatThreads(data);
+    } catch (error) {
+      toast({
+        title: "Error",
+        description: "Failed to load messages",
+        variant: "destructive",
+      });
+    } finally {
       setIsLoading(false);
+    }
   };
+}
