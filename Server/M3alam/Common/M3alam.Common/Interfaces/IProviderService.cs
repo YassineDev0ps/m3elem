@@ -11,15 +11,12 @@ namespace M3alam.Common.Interfaces
     public interface IProviderService
     {
         Task<bool> CreateProviderAccount(CreateProviderAccountDto Data);
-        Task<ProviderProfileDto> GetProfileAsync(Guid providerId);
-        Task UpdateProfileAsync(Guid providerId, UpdateProviderDto update);
-
+        Task<ProfileDto> GetProfileAsync(Guid providerId);
+        Task<ProfileDto> UpdateProfileAsync(Guid providerId, UpdateProfileDto updateDto);
         Task<DashboardDto> GetDashboardAsync(Guid providerId);
-        Task<IEnumerable<RequestDto>> GetRequestsAsync(Guid providerId, RequestStatusEnum? status = null);
-
-        Task AcceptRequestAsync(Guid providerId, Guid requestId);
-        Task DeclineRequestAsync(Guid providerId, Guid requestId);
-        Task StartRequestAsync(Guid providerId, Guid requestId);
-        Task CompleteRequestAsync(Guid providerId, Guid requestId);
+        Task<IEnumerable<RequestDto>> GetRequestsAsync(Guid providerId, RequestStatus? status = null);
+        Task<bool> AcceptRequestAsync(Guid providerId, Guid requestId);
+        Task<bool> DeclineRequestAsync(Guid providerId, Guid requestId);
+        Task<bool> UpdateAvailabilityAsync(Guid providerId, bool availability);
     }
 }

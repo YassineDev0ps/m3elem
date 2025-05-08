@@ -16,11 +16,9 @@ namespace M3alam.Domain.Entities
         public string ServiceType { get; set; } = default!;
         public RequestStatusEnum Status { get; set; }
         public DateTime PreferredTime { get; set; }
-
         public double Latitude { get; set; }
         public double Longitude { get; set; }
         public string Address { get; set; } = default!;
-
         // Foreign keys
         public Guid SeekerId { get; set; }
         public Guid? ProviderId { get; set; }

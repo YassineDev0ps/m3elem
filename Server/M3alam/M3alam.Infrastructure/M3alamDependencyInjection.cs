@@ -15,7 +15,7 @@ namespace M3alam.Infrastructure
         public static IServiceCollection AddM3alamInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
          
-            //services.AddTransient< , >();
+            services.AddTransient< IProviderService , ProviderService>();
            
 
 

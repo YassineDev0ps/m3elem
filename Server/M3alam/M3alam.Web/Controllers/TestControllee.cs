@@ -15,5 +15,12 @@ namespace M3alam.Web.Controllers
         {
             return Ok("Auth Working!");
         }
+        [HttpPost]
+        public ActionResult<bool> create(CreateProviderAccountDto DTO)
+        {
+            return Mediator.send{CreateProviderAccountCommand : {
+                dto: Dto
+            }};
+        }
     }
 }
