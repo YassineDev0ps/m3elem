@@ -4,16 +4,19 @@ using M3alam.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace M3alam.Identity.Infrastructure.Migrations
+namespace M3alam.Infrastructure.Migrations
 {
     [DbContext(typeof(M3alamDbContext))]
-    partial class IdentityContextModelSnapshot : ModelSnapshot
+    [Migration("20250508100524_UpdateMigration")]
+    partial class UpdateMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

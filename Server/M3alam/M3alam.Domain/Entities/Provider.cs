@@ -19,10 +19,10 @@ namespace M3alam.Domain.Entities
         public int ReviewCount { get; set; }
         public int CompletedJobs { get; set; }
 
-        [JsonIgnore]
+
         public ICollection<Request>? RequestsHandled { get; set; }
 
-        [JsonIgnore]
+       
         public ICollection<Rating>? RatingsReceived { get; set; }
     }
 

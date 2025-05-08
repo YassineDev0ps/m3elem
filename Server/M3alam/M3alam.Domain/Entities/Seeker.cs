@@ -16,10 +16,10 @@ namespace M3alam.Domain.Entities
         public double? Longitude { get; set; }
         public string? Address { get; set; }
 
-        [JsonIgnore]
+  
         public ICollection<Request>? Requests { get; set; }
 
-        [JsonIgnore]
+
         public ICollection<Rating>? RatingsGiven { get; set; }
     }
 }

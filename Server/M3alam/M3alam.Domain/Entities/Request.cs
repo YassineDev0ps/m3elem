@@ -29,7 +29,7 @@ namespace M3alam.Domain.Entities
         public Seeker? Seeker { get; set; }
         public Provider? Provider { get; set; }
 
-        [JsonIgnore]
+   
         public ICollection<Message>? Messages { get; set; }
     }
 }
