@@ -25,7 +25,7 @@ export default function LandingPage() {
       </header>
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-primary to-blue-600 text-white py-20">
+      <section className="bg-[#3373b4] text-white py-20">
         <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Find Skilled Workers in Morocco</h1>
@@ -46,7 +46,11 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="md:w-1/2">
-            <img src="/placeholder.svg?key=xrqrn" alt="M3alem.ma Service Providers" className="rounded-lg shadow-xl" />
+            <img
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-rTyUTyRtz9S2a9dQ5lb4flhxFjOgLZ.png"
+              alt="M3alem.ma Service Providers"
+              className="rounded-lg shadow-xl"
+            />
           </div>
         </div>
       </section>
