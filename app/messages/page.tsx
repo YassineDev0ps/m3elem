@@ -32,7 +32,7 @@ export default function MessagesPage() {
     try {
       const response = await fetch("/api/messages", {
         headers: {
-          Authorization: Bearer ${user.token},
+          Authorization: `Bearer ${user.token}`,
         },
       });
 
